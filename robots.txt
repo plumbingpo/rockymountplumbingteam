@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rockymountplumbingteam.com/sitemap.xml
